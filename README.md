@@ -1,4 +1,4 @@
-Free HTML Email Templates
+<strong>Free HTML Email Templates</strong>
 
 - Single Image Email.
 - Scheduling Email.
